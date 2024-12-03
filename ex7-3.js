@@ -1,0 +1,1 @@
+function calculateBMI() { var weight = Number(document.getElementById('weight').value); var height = Number(document.getElementById('height').value) / 100; // cmをmに変換 var bmi = weight / (height * height); alert("あなたのBMIは: " + bmi.toFixed(2) + " です"); }
