@@ -6,4 +6,4 @@ var heinen3=(seireki%400)
 if (heinen3 == 0) { alert("閏年"); } 
 else if (heinen2 == 0) { alert("平年"); } 
 else if (heinen1 == 0) { alert("閏年"); } 
-else { alert("平年");
+else { alert("平年"); } }
