@@ -1,4 +1,4 @@
-function heinen() {
+function uru() {
 var tosi =Number(document.getElementById('weight2').value); 
 if (document.getElementById('uru').value == '夢') {
 alert('うるう年');} 
